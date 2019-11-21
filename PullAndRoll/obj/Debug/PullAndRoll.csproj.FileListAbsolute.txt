@@ -1,0 +1,7 @@
+C:\Users\Gtx\source\repos\PullAndRoll\PullAndRoll\bin\Debug\PullAndRoll.exe.config
+C:\Users\Gtx\source\repos\PullAndRoll\PullAndRoll\bin\Debug\PullAndRoll.exe
+C:\Users\Gtx\source\repos\PullAndRoll\PullAndRoll\bin\Debug\PullAndRoll.pdb
+C:\Users\Gtx\source\repos\PullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.csprojAssemblyReference.cache
+C:\Users\Gtx\source\repos\PullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.csproj.CoreCompileInputs.cache
+C:\Users\Gtx\source\repos\PullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.exe
+C:\Users\Gtx\source\repos\PullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.pdb
