@@ -5,3 +5,10 @@ C:\Users\Gtx\source\repos\PullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.csprojAs
 C:\Users\Gtx\source\repos\PullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.csproj.CoreCompileInputs.cache
 C:\Users\Gtx\source\repos\PullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.exe
 C:\Users\Gtx\source\repos\PullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.pdb
+E:\BITM-Git-PTC\Geoxp-Pull-Roll-Branch\BranchofPullAndRoll\PullAndRoll\bin\Debug\PullAndRoll.exe.config
+E:\BITM-Git-PTC\Geoxp-Pull-Roll-Branch\BranchofPullAndRoll\PullAndRoll\bin\Debug\PullAndRoll.exe
+E:\BITM-Git-PTC\Geoxp-Pull-Roll-Branch\BranchofPullAndRoll\PullAndRoll\bin\Debug\PullAndRoll.pdb
+E:\BITM-Git-PTC\Geoxp-Pull-Roll-Branch\BranchofPullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.csprojAssemblyReference.cache
+E:\BITM-Git-PTC\Geoxp-Pull-Roll-Branch\BranchofPullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.csproj.CoreCompileInputs.cache
+E:\BITM-Git-PTC\Geoxp-Pull-Roll-Branch\BranchofPullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.exe
+E:\BITM-Git-PTC\Geoxp-Pull-Roll-Branch\BranchofPullAndRoll\PullAndRoll\obj\Debug\PullAndRoll.pdb
