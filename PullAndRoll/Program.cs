@@ -11,6 +11,7 @@ namespace PullAndRoll
         static void Main(string[] args)
         {
             Console.WriteLine("Push > Pull > RollBack > Branching");
+            Console.WriteLine("New line added to pull to local from remote");
             Console.ReadKey();
         }
     }
